@@ -1,0 +1,24 @@
+{
+  "name": "pull-delay",
+  "version": "1.0.0",
+  "description": "a through for dominictarr's pull-stream to delay the inputs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dweinstein/pull-delay.git"
+  },
+  "keywords": [
+    "pull-stream",
+    "through",
+    "delay"
+  ],
+  "author": "dweinstein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dweinstein/pull-delay/issues"
+  },
+  "homepage": "https://github.com/dweinstein/pull-delay"
+}
