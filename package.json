@@ -1,6 +1,6 @@
 {
   "name": "pull-delay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a through for dominictarr's pull-stream to delay the inputs",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/dweinstein/pull-delay/issues"
   },
-  "homepage": "https://github.com/dweinstein/pull-delay"
+  "homepage": "https://github.com/dweinstein/pull-delay",
+  "dependencies": {
+    "pull-stream": "^2.26.0"
+  }
 }
